@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981488759458",
+    "firebase_url": "https://online-store-app-fdeef.firebaseio.com",
+    "project_id": "online-store-app-fdeef",
+    "storage_bucket": "online-store-app-fdeef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981488759458:android:58c8e35a149208ccef9dfb",
+        "android_client_info": {
+          "package_name": "com.example.onlinestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981488759458-ajbap0p6l69cfu74aoipf3c4kam26iu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfU6NI6FYQkmb-8DEaGDDCPyunjhXCQaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981488759458-ajbap0p6l69cfu74aoipf3c4kam26iu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
